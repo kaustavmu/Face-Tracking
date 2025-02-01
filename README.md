@@ -49,3 +49,6 @@ This script makes the following assumptions about the content and format of the 
  - Only one person with the reference face is in every frame. If not, it will only detect one.
  - The face is of sufficient resolution to be detected by RetinaFace and DeepFace.
  - An assumption is made that a scene change occurs when the face changes from being visible to not visible. In the case that a scene change occurs but the face is visible in both of them, they will be in a single clip.
+   
+## Samples
+[Here](https://drive.google.com/drive/folders/1iW7iCTOLdKXwhZdyIHd6v5dwv11xWOSK?usp=drive_link) is a link to a google drive folder with sample videos, reference images, and outputs.
